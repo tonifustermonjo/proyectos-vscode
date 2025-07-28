@@ -1,0 +1,27 @@
+# Jupyter & entorno
+ipykernel
+jupyterlab
+notebook
+
+# Data Engineering
+pandas
+numpy
+pyarrow
+openpyxl           # útil para leer/escribir Excel
+azure-storage-blob # si accedes a blobs
+azure-identity     # para autenticación
+
+# Spark y Databricks
+pyspark
+databricks-cli     # opcional, si gestionas clusters/jobs desde CLI
+
+# IA y LangChain
+langchain
+openai             # si usas modelos de OpenAI
+chromadb           # vector store popular para LangChain
+sentence-transformers
+tiktoken           # para conteo de tokens en OpenAI y otros LLMs
+
+# Otros útiles
+tqdm               # progreso en loops
+python-dotenv      # para cargar variables de entorno
