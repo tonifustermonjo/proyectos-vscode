@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Usuario\\miniconda3\\envs\\py313\\python.exe",
+  "jupyter.jupyterServerType": "local",
+  "jupyter.interactiveWindow.kernelProvider": "Python",
+  "jupyter.kernelPicker.type": "mru"
+}
