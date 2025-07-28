@@ -7,9 +7,11 @@ notebook
 pandas
 numpy
 pyarrow
-openpyxl           # útil para leer/escribir Excel
-azure-storage-blob # si accedes a blobs
-azure-identity     # para autenticación
+openpyxl  # útil para Excel
+
+# Azure
+azure-storage-blob  # si accedes a blobs
+azure-identity      # para autenticación
 
 # Spark y Databricks
 pyspark
@@ -20,8 +22,10 @@ langchain
 openai             # si usas modelos de OpenAI
 chromadb           # vector store popular para LangChain
 sentence-transformers
-tiktoken           # para conteo de tokens en OpenAI y otros LLMs
+tiktoken           # conteo tokens en OpenAI y otros LLMs
 
 # Otros útiles
 tqdm               # progreso en loops
 python-dotenv      # para cargar variables de entorno
+rich               # para visualizaciones bonitas en consola (opcional)
+requests           # para llamadas HTTP (opcional)
