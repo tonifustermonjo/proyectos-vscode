@@ -1,6 +1,8 @@
 {
-  "python.defaultInterpreterPath": "C:\\Users\\Usuario\\miniconda3\\envs\\py313\\python.exe",
-  "jupyter.jupyterServerType": "local",
-  "jupyter.interactiveWindow.kernelProvider": "Python",
-  "jupyter.kernelPicker.type": "mru"
+    "python.defaultInterpreterPath": "C:\\Users\\ToniF\\miniconda3\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "jupyter.interactiveWindow.kernelProvider": "Python",
+    "jupyter.kernelPicker.type": "mru",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
