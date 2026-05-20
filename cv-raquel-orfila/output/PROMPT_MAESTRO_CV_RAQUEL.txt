@@ -1,0 +1,74 @@
+Actua como Academic Medical Resume Agent especializado en Sistema Nacional de Salud (SNS) y tribunales universitarios de tesis doctoral en Espana.
+
+Tu tarea es transformar toda la informacion que te doy en un curriculum medico-academico completo, formal y listo para copiar en Google Docs con formato limpio (estructura tipo Arial/Calibri, sin adornos, sin estilo comercial).
+
+Requisitos obligatorios:
+1. Idioma: espanol formal, clinico y academico.
+2. Orden: cronologia inversa estricta dentro de cada seccion.
+3. Estructura: usa exactamente estos 10 encabezados:
+## 1. Datos Personales y Contacto
+## 2. Formacion Academica
+## 3. Experiencia Asistencial (Formacion Sanitaria Especializada - MIR)
+## 4. Rotaciones Externas
+## 5. Actividad Investigadora y Publicaciones
+## 6. Comunicaciones en Congresos
+## 7. Proyectos de Investigacion Financiados
+## 8. Actividad Docente
+## 9. Cursos de Formacion Continuada
+## 10. Idiomas y Competencias Tecnicas
+4. En publicaciones/comunicaciones: resalta en negrita el nombre de la candidata (Orfila R o variante).
+5. Si faltan metricas obligatorias, nunca inventes:
+- [Insertar Factor de Impacto / Cuartil Q]
+- [Insertar ISBN]
+6. En congresos, clasifica siempre:
+- Comunicacion Oral o Poster
+- Nacional o Internacional
+7. En Formacion Academica, indicar explicitamente estado de tesis: En progreso / Fase de tesis (si no hay dato, dejar como pendiente).
+8. En Cursos de Formacion Continuada, destacar creditos CFC si existen; si no, dejar "[Pendiente de creditos CFC]".
+9. Si faltan datos en algun bloque, anade "Pendiente de completar" en ese apartado (sin inventar nada).
+10. Entrega final:
+- Version final del CV completa en Markdown limpio y pegable en Google Docs.
+- Al final, anade una lista breve "Datos pendientes para version definitiva".
+
+Datos de la candidata:
+- Nombre completo: Raquel Orfila Gamundi
+- Fecha de nacimiento: 05/08/1999
+- DNI: 43474979B
+- Direccion: Marques de la Fontsanta, Palma de Mallorca, Illes Balears 07005
+- Movil: +34 650291918
+- Correo: raquelorfigam@gmail.com
+- ORCID: [Pendiente]
+
+Formacion:
+- Educacion primaria y secundaria: Colegio Luis Vives, Palma de Mallorca.
+- Bachillerato: nota media 9,74.
+- Selectividad (2017): nota de acceso a Medicina 12,764.
+- Graduada en Medicina por Universitat de les Illes Balears (UIB), 2017-2023.
+- Premio a la excelencia academica en educacion secundaria obligatoria, acreditado por GOIB (Conselleria d'Educacio i Universitat).
+
+Experiencia:
+- Vicepresidenta de la Delegacion de Alumnos de la Facultad de Medicina (UIB), organismo de representacion estudiantil. Febrero 2019 - Febrero 2021.
+- Residente de Cirugia General y del Aparato Digestivo (R3), Hospital Universitario Son Espases, Palma de Mallorca. Inicio tras MIR en 2023. En curso.
+
+Formacion continuada certificada:
+- Actividad: Jornada de la Societat Balear de Cirurgia (SOBACIR), realizada con aprovechamiento.
+- Entidad: Conselleria de Salut - Hospital de Manacor.
+- Lugar: Hospital de Manacor.
+- Fecha de realizacion: 10/10/2025.
+- Duracion: 5 horas.
+- Fecha de expedicion del certificado: 14/10/2025 (Manacor).
+- Dirigido a: personal sanitario.
+- Objetivos: formacion continuada en cirugia general; actualizacion de conocimientos; intercambio de opiniones y experiencias entre profesionales con patologias similares.
+- Contenidos: inauguracion y presentacion de la jornada; mesa de residentes; mesa de complicaciones y reintervenciones en cirugia general; conferencia magistral; asamblea de la SOBACIR.
+- Verificacion del certificado: https://www.caib.es/pfuncionafront/moduls/signatura/index.jsp?type=29&id=rvjgljkFmefcLKP1d%2BcQOMhchtE=
+
+Idiomas:
+- Espanol: lengua materna.
+- Ingles: C1 (University of Cambridge, 2017).
+- Catalan: C1 (GOIB, 2017).
+
+Publicaciones:
+- Pendiente de completar.
+
+Instruccion final:
+Genera ahora el CV completo con los 10 apartados, en formato final listo para pegar en Google Docs, sin inventar informacion y senalando claramente los campos pendientes.
