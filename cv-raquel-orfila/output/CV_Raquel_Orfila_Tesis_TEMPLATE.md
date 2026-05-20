@@ -1,5 +1,8 @@
 # CURRICULUM VITAE ACADEMICO-MEDICO - RAQUEL ORFILA GAMUNDÍ
-## Template para Tesis Doctoral (2028)
+## Template para Solicitud de Admision a Programa de Doctorado
+
+**Resumen profesional**
+- Medica en formacion especializada (R3) en Cirugia General y del Aparato Digestivo, con interes en investigacion clinico-quirurgica, bases academicas solidas y trayectoria de participacion estudiantil y formativa orientada a la admision a programa de doctorado.
 
 ---
 
@@ -16,6 +19,12 @@
 
 ## 2. Formación Académica
 
+**Objetivo académico actual**
+- Solicitud de admisión a programa de doctorado en el ámbito médico-quirúrgico.
+
+**Perfil de idoneidad para el programa**
+- Formacion medica completa, experiencia asistencial en un servicio quirurgico de alta especializacion, participacion en representacion academica y cursos de formacion continuada acreditada.
+
 **Educación Superior**
 - Graduada en Medicina. Universitat de les Illes Balears (UIB), 2017-2023.
 
@@ -28,8 +37,8 @@
 - Premio a la excelencia académica en Educación Secundaria Obligatoria, acreditado por GOIB - Conselleria d'Educació i Universitat.
 
 **Estado de Doctorado/Tesis**
-- [PENDIENTE: Programa oficial, Universidad, Fecha de inicio, Título provisional de tesis, Director/a]
-- Orientación esperada: En progreso / Previsión de defensa en 2028
+- Candidata a admisión en programa de doctorado.
+- [PENDIENTE: Programa oficial, Universidad, línea de investigación, título provisional de tesis y director/a]
 
 ---
 
@@ -39,7 +48,7 @@
 - **Centro:** Hospital Universitario Son Espases, Palma de Mallorca
 - **Especialidad:** Cirugía General y del Aparato Digestivo
 - **Año actual:** R3 (Residente de 3er año)
-- **Período:** 2023 - En curso (Finalización prevista 2028)
+- **Período:** 2023 - En curso
 - **Responsabilidades:** [PENDIENTE: Rotaciones específicas, competencias adquiridas, procedimientos]
 
 ---
@@ -132,9 +141,12 @@ Modelo a rellenar por cada proyecto:
 
 ## 8. Actividad Docente
 
-**Cargos de Representación y Gestión Académica**
+**Actividad asociativa y representativa**
 - Vicepresidenta de la Delegación de Alumnos, Facultad de Medicina (UIB). Febrero 2019 - Febrero 2021.
   - Funciones: Representación estudiantil, coordinación de actividades, intermediación con la dirección.
+
+**Cargos de Representación y Gestión Académica**
+- [PENDIENTE: completar otras actividades docentes, seminarios o tutorías]
 
 **Sesiones Clínicas y Seminarios Hospitalarios**
 
@@ -183,11 +195,9 @@ Modelo a rellenar por cada sesión:
 ## 10. Idiomas y Competencias Técnicas
 
 **Idiomas**
-| Idioma | Nivel MCERL | Acreditación | Año |
-|--------|------------|--------------|-----|
-| Español | Nativo | Lengua materna | — |
-| Inglés | C1 | University of Cambridge | 2017 |
-| Catalán | C1 | GOIB (Govern de les Illes Balears) | 2017 |
+- Español: lengua materna.
+- Inglés: C1 (University of Cambridge, 2017).
+- Catalán: C1 (GOIB, 2017).
 
 **Competencias Técnicas Médico-Investigadoras**
 
@@ -202,10 +212,10 @@ Modelo a rellenar por cada sesión:
 
 ---
 
-## Resumen de Datos Pendientes para Versión Definitiva de Tesis (2028)
+## Resumen de Datos Pendientes para Solicitud de Doctorado
 
-**Alta prioridad (para tribunal):**
-1. Programa oficial de doctorado (universidad, título, director/a)
+**Alta prioridad (para admisión):**
+1. Programa oficial de doctorado (universidad, línea de investigación, director/a)
 2. Publicaciones indexadas (JCR, cuartil, DOI)
 3. Comunicaciones en congresos (oral/póster, nacional/internacional)
 4. Proyectos de investigación financiados
@@ -218,7 +228,7 @@ Modelo a rellenar por cada sesión:
 9. Nivel de dominio de herramientas estadísticas/informáticas
 
 **Notas para cumplimentación:**
-- Revisar anualmente conforme avance la residencia (R3→R4→R5)
-- Solicitar al tutor/directora de tesis datos de publicaciones y proyectos
+- Revisar y actualizar semestralmente durante la residencia (R3→R4→R5)
+- Solicitar al futuro director/a de tesis orientación de línea investigadora y plan de publicaciones
 - Mantener actualizados ORCID y perfiles académicos (ResearchGate, Google Scholar)
-- Conservar certificados originales de formación continuada para auditoría de tribunal
+- Conservar certificados originales de formación continuada para expediente de admisión

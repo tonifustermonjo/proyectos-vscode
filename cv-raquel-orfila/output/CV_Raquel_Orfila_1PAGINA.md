@@ -1,5 +1,8 @@
 # CURRICULUM VITAE - RAQUEL ORFILA GAMUNDÍ
 
+**Resumen profesional**
+- Medica en formacion especializada (R3) en Cirugia General y del Aparato Digestivo, con base academica solida, expediente destacado y orientacion al desarrollo investigador en el ambito medico-quirurgico para solicitud de admision a programa de doctorado.
+
 **Datos de Contacto**
 - DNI: 43474979B
 - Móvil: +34 650291918
@@ -9,6 +12,9 @@
 **Formación Académica**
 - Graduada en Medicina. Universitat de les Illes Balears (UIB), 2017-2023.
 - Bachillerato (nota media 9,74). Colegio Luis Vives, Palma de Mallorca.
+- Premio a la excelencia académica en Educación Secundaria Obligatoria (GOIB, 2017).
+
+**Premios y reconocimientos**
 - Premio a la excelencia académica en Educación Secundaria Obligatoria (GOIB, 2017).
 
 **Experiencia Clínica**
